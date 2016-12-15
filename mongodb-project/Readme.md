@@ -1,5 +1,5 @@
 
-## Name: Vishnu Chaitanya Mandalapu and Madhu Reddy
+## Name: Vishnu Chaitanya Mandalapu and Madhuchirra Reddy Kattreddy
 ## Project: Mongo DB
 ## Course: 5303 - Advance Database management Systems
 
